@@ -32,11 +32,9 @@ Portanto, ao analisar o conjunto desse dois fatores, é possivel verificar os po
   <img src = "Dashboard Logística - OTIF/Slide1.JPG" width=70%>
 </p>
 
-
 <p align="center">
   <img src = "Dashboard Logística - OTIF/Slide2.JPG" width=70%>
 </p>
-
 
 <p align="center">
   <img src = "Dashboard Logística - OTIF/Slide3.JPG" width=70%>
@@ -47,13 +45,5 @@ Portanto, ao analisar o conjunto desse dois fatores, é possivel verificar os po
 </p>
 
 
-p align="center">
-  <img src = "Dashboard Logística - OTIF/Slide5.JPG" width=70%>
-</p>
-
-
-p align="center">
-  <img src = "Dashboard Logística - OTIF/Slide6.JPG" width=70%>
-</p>
 
 # 
