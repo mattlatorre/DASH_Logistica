@@ -28,16 +28,15 @@ TEXTO
   <img src = "Dashboard Logística - OTIF/Slide3.JPG" width=70%>
 </p>
 
-
-
-
 <p align="center">
   <img src = "Dashboard Logística - OTIF/Slide4.JPG" width=70%>
 </p>
 
+
 p align="center">
   <img src = "Dashboard Logística - OTIF/Slide5.JPG" width=70%>
 </p>
+
 
 p align="center">
   <img src = "Dashboard Logística - OTIF/Slide6.JPG" width=70%>
