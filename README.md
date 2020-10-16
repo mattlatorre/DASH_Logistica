@@ -2,10 +2,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=grey)](https://github.com/mattlatorre/Portfolio)
 
 
-# Dashboard Logística
+# Dashboard Logístico
 
 <p align="center">
-  <img src = "OTIF.jpg" width=70%>
+  <img src = "OTIF.jpg" width=50%>
 </p>
 
 #
