@@ -22,7 +22,9 @@ Portanto, ao analisar o conjunto desse dois fatores, é possivel verificar os po
   * Redução de custos e aumento da margem de lucro
   * Melhoria na percepção de valor dos clientes
   
-  O **objetivo** do projeto foi automatizar a criação dos indicadores 
+ > O **objetivo** do projeto foi automatizar a criação dos indicadores e listar os principais influenciadores.
+ 
+ Para criação do Dashboard foi utilizado o vizual de  ***influenciadores principais***, que permite entender os fatores que influenciam uma métrica na qual está interessado. Ele analisa os dados, classifica os fatores importantes e os exibe como influenciadores principais.
   
 #
 
