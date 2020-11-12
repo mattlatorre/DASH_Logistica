@@ -25,6 +25,9 @@ Portanto, ao analisar o conjunto desses dois fatores, é possível verificar os 
  > O **objetivo** do projeto foi automatizar a criação dos indicadores e listar os principais influenciadores.
  
  Para criação do Dashboard foi utilizado o visual de  ***influenciadores principais***, que permite entender os fatores que influenciam uma métrica na qual está interessado. Ele analisa os dados, classifica os fatores importantes e os exibe como influenciadores principais.
+ 
+ 
+ É possivel acessar o Dashboard de forma interativa no link a seguir: **https://bit.ly/2Ul0nIf**
   
 #
 
